@@ -1,4 +1,4 @@
-<header>
+# Practice Header
 
 <!--
   <<< Author notes: Course header >>>
